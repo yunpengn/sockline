@@ -2,7 +2,7 @@
   "name": "sockline",
   "version": "0.9.10",
   "engines": {
-    "node": "10.x"
+    "node": "8.x"
   },
   "dependencies": {
     "bufferutil": "^3.0.3",
