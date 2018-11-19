@@ -1,5 +1,4 @@
-Sockline
-==================
+# Sockline
 
 Sockline is a service based on shadowsocks-heroku, which is a lightweight tunnel proxy which can help you get through firewalls. It is a port of [shadowsocks](https://github.com/clowwindy/shadowsocks), but through a different protocol.
 
@@ -86,3 +85,8 @@ Supported Ciphers
 - camellia-256-cfb
 - camellia-192-cfb
 - camellia-128-cfb
+
+### Licence
+
+[MIT Licence](LICENSE)
+
