@@ -1,7 +1,7 @@
-shadowsocks-heroku
+Sockline
 ==================
 
-shadowsocks-heroku is a lightweight tunnel proxy which can help you get through firewalls. It is a port of [shadowsocks](https://github.com/clowwindy/shadowsocks), but through a different protocol.
+Sockline is a service based on shadowsocks-heroku, which is a lightweight tunnel proxy which can help you get through firewalls. It is a port of [shadowsocks](https://github.com/clowwindy/shadowsocks), but through a different protocol.
 
 shadowsocks-heroku uses WebSocket instead of raw sockets, so it can be deployed on [Heroku](https://www.heroku.com/).
 
@@ -13,7 +13,7 @@ Heroku
 ### Usage
 
 ```
-$ heroku create
+heroku$ heroku create
 Creating still-tor-8707... done, stack is cedar-14
 http://still-tor-8707.herokuapp.com/ | git@heroku.com:still-tor-8707.git
 ```
